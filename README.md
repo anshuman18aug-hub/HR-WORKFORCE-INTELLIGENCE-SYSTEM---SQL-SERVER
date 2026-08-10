@@ -1,10 +1,10 @@
 
 A SQL-based data analytics project focused on analyzing employee data to identify insights related to workforce, salaries, departments, experience, and performance.
-Tools & Technologies
+*Tools & Technologies
 SQL
 SQL Server (SSMS)
 Analysis
-The project contains SQL queries covering:
+*The project contains SQL queries covering:
 Aggregation & filtering
 GROUP BY & HAVING
 CASE statements
